@@ -1,4 +1,4 @@
-Name of sequence : Breakroom
+Name of sequence : Coffee Hall Loop
 
 Number of scans : 171
 
