@@ -1,3 +1,5 @@
+## LOOP'IN DATA SET
+
 This repository stores the dataset generated and used in _Accurate plane-based registration of real-world point clouds, K. Favre, M. Pressigout, E. Marchand, L. Morin_ _(under review)_
 
 ## Repository Structure
@@ -20,6 +22,8 @@ This repository stores the dataset generated and used in _Accurate plane-based r
         * ptc\_58.pcd - ptc\_114.pcd       
      * pointcloud\_data\_02
         * ptc\_115.pcd - ptc\_170.pcd 
+        
+<img src="./figures/coffee_map.png" width="50%">
 
         
 ## Licensing
