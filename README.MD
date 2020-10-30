@@ -11,7 +11,7 @@ This repository stores the dataset generated and used in _Accurate plane-based r
      * pointcloud\_data\_01
         * ptc\_71.pcd - ptc\_141.pcd   
         
-<img src="./figures/balcony_map.png" width="50%">
+<img src="./figures/balcony_map.png" width="40%">
 
         
 * Coffee Hall Loop: 171 point clouds
@@ -23,7 +23,7 @@ This repository stores the dataset generated and used in _Accurate plane-based r
      * pointcloud\_data\_02
         * ptc\_115.pcd - ptc\_170.pcd 
         
-<img src="./figures/coffee_map.png" width="50%">
+<img src="./figures/coffee_map.png" width="70%">
 
         
 ## Licensing
